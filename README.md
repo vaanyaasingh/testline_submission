@@ -40,34 +40,40 @@ The project uses data from three sources:
 **Visualization:** Accuracy Trend for User
 
 **Description:** Plots user's accuracy trend over time. 
-[Insert screenshot of the visualization here]
+![accuracy trends for users](https://github.com/user-attachments/assets/035378cc-348f-4c18-b3c1-3e0725cc7882)
+
+
 
 
 
 **Visualization:** Average Accuracy by Topic
 
 **Description:** This visualization shows the average accuracy for different topics covered in the quiz. 
-[Insert screenshot of the visualization here]
+![average accuracy by topic ](https://github.com/user-attachments/assets/597705ab-2ac6-4562-8558-3a4db9208e84)
+
 
 
 
 **Visualization:** Average Accuracy by Difficulty Level
 
 **Description:** This bar plot depicts the average accuracy across different difficulty levels, giving insight into areas where users find the most challenges. 
-[Insert screenshot of the visualization here]
+![average accuracy by difficulty](https://github.com/user-attachments/assets/9b972394-364a-4122-8208-e10161c7f177)
+
 
 
 **Visualization:** Correlation between Difficulty and Accuracy
 
 **Description:** This shows how difficulty and accuracy are related, revealing if there's a noticeable impact of difficulty on user performance.
-[Insert screenshot of the visualization here]
+![correlation between difficulty and accuracy](https://github.com/user-attachments/assets/9f6c3cb1-364f-46be-8f20-b01f8c884c3a)
+
 
 
 
 **Visualization:** Average Accuracy Over Time
 
 **Description:** Illustrates the average accuracy achieved by users on a weekly basis, demonstrating whether overall performance is improving or declining over time. 
-[Insert screenshot of the visualization here]
+![user's average timed accuracy](https://github.com/user-attachments/assets/68351b82-36df-482d-9954-cb81a219f53b)
+
 
 
 
