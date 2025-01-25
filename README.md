@@ -1,13 +1,36 @@
-# testline_submission
-
-# Quiz Performance Analysis and Personalized Recommendations
+# Testline Internship Task Submission
 
 ## Project Overview
+This project analyzes NEET practice test scores to highlight:
+- Weak areas
+- Improvement trends
+- Performance gaps for a given user.
 
-This project analyzes historical and current quiz performance data to identify individual user strengths and weaknesses, and generates personalized recommendations for improvement. 
+The analysis includes both historical and current quiz data. The insights are visualized to provide actionable recommendations for improving performance.
+
+## Approach
+1. **Data Processing**:
+   - Combined historical and current quiz data for analysis.
+   - Extracted key metrics like accuracy, mistakes, speed, and performance trends.
+
+2. **Insights Generated**:
+   - Highlighted weak areas by topic and difficulty level.
+   - Tracked improvement trends across quizzes.
+   - Identified performance gaps and generated recommendations.
+
+3. **Visualizations**:
+   - Accuracy trends over time.
+   - Mistakes vs. accuracy.
+   - Performance by difficulty level.
+   - Negative performance trends.
 
 ## Setup Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/testline-submission.git
+   cd testline-submission
 
+  
 ### Dependencies
 
 *   Python 3.x
